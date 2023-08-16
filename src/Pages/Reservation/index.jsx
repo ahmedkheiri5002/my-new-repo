@@ -1,5 +1,5 @@
 import { Box, Flex, Heading, Image, Text, useMediaQuery } from "@chakra-ui/react";
-import ReservForm from "components/ReservForm";
+import ReservForm from "components/ReserveForm";
 import OperatingHour from "components/OperatingHour";
 
 const Reservation = () => {

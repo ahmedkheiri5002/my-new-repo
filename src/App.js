@@ -1,10 +1,10 @@
 import { Navigate, Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom';
-import { ReserveProvider } from 'context/reserveContext';
+import { ReserveProvider } from './context/reserveContext';
 import { ChakraProvider } from '@chakra-ui/react';
-import Main from 'components/Main';
-import Home from 'Pages/Home';
-import Reservation from 'Pages/Reservation';
-import theme from 'theme';
+import Main from './components/Main';
+import Home from './Pages/Home';
+import Reservation from './Pages/Reservation';
+import theme from './theme';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
