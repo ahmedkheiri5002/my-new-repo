@@ -29,7 +29,7 @@ const Footer = () => {
                     }
                 </Flex>
                 <Flex justifyContent="flex-end">
-                    <Text color="primary.yellow" fontSize="sm" fontWeight="300"><a href="https://github.com/tOxicV4p0r/little-lemon" target="_blank" rel="noopener noreferrer">Copyright © 2023 Little Lemon | Github:tOxicV4p0r</a></Text>
+                    <Text color="primary.yellow" fontSize="sm" fontWeight="300"><a href="https://github.com/ahmedkheiri5002/my-new-repo/tree/master" target="_blank" rel="noopener noreferrer">Copyright © 2023 Little Lemon </a></Text>
                 </Flex>
             </Box>
         </Box>
